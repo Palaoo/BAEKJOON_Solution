@@ -22,6 +22,7 @@ public class Solution8958 {
 			}
 			weight = 0;
 		}
+		br.close();
 		for (int a : score) {
 			System.out.println(a);
 		}
