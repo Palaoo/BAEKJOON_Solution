@@ -1,4 +1,5 @@
 // 가설 : 모든 땅 높이의 평균보다 높은 땅높이는 해에서 배제한다.
+// avg까지만 하니까 틀림. max까지 해의 범위를 늘리니 맞춤. 그러나 O(n^(3))에 해당하는 알고리즘인만큼 매우 느림(832ms). 개선이 필요.
 
 import java.io.BufferedReader;
 import java.io.IOException;
