@@ -1,6 +1,6 @@
 import java.io.IOException;
 
-public class Solution1018 {
+public class test1 {
 
 	public static void main(String[] args) throws IOException {
 		int M = readDigits();

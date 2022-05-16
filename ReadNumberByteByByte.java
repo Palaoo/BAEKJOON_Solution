@@ -4,6 +4,8 @@ public class ReadNumberByteByByte {
 
 	public static void main(String[] args) throws IOException {
 		int n = read();
+		int a = 6;
+		System.out.println(a << 8);
 	}
 
 	static int read() throws IOException {
