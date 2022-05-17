@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> aafde87c57802f617a6781ff63c1f004e7a25685
 public class Solution10845 {
 	static int[] queue;
 	static int first;
