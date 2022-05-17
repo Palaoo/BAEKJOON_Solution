@@ -1,5 +1,3 @@
-import java.io.IOException;
-
 public class Solution10845 {
 	static int[] queue;
 	static int first;
