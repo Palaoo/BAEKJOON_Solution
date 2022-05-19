@@ -11,9 +11,9 @@ public class Solution1152 {
 
 		
 		while(true) 
-			if (str[i].length() !=0)
-				count++;
-		
+//			if (str[i].length() !=0)
+//				count++;
+//		
 		System.out.println(count);
 	}
 
