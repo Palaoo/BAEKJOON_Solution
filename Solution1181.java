@@ -59,12 +59,13 @@ public class Solution1181 {
 						return newN;
 				} else if (thisB[k] == otherB[k]) {
 					continue;
-				}
-				else {
+				} else {
 					if (this.next != null)
 						return this.next.compareTo(other);
-					else if (this.next == null)
+					else if (this.next == null) {
 						this.next = new Node(other);
+						break;
+					}
 				}
 			}
 
